@@ -1,2 +1,3 @@
-# spring-boot-tutorias
-Sample repository that has examples with spring boot
+# spring-boot-tutorial
+Sample repository for Spring Boot tutorials
+
